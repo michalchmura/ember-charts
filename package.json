@@ -1,6 +1,7 @@
 {
   "name": "ember-charts",
-  "version": "1.2.1",
+  "version": "0.0.2",
+  "ember-charts-version": "1.2.1",
   "description": "A powerful and easy to use charting library for Ember.js.",
   "directories": {
     "doc": "doc",
@@ -13,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Addepar/ember-charts.git"
+    "url": "https://github.com/michalchmura/ember-charts.git"
   },
   "engines": {
     "node": ">= 0.10.0"
